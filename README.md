@@ -139,7 +139,6 @@ const int highScoreStartAddr = 30;
 ## Step 2: Structure of the code and data initialization
 
 This code is structured into several methods and data structures for avoiding code redudancy and performance:
--- to do
 - Handling main functionalities into separate methods:
 
     1. generateRandomgameMap: This function is responsible for generating a random game map with a guaranteed path from the top-left to the bottom-right. It places walls on the map while ensuring a valid path.
@@ -980,4 +979,4 @@ void handleRapidBlinking(byte x, byte y) {
 ```
 
 Demo :
-To upload
+https://youtube.com/shorts/69EAys8AuJA
