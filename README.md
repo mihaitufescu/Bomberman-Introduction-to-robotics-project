@@ -44,6 +44,8 @@ Test the components:
     - Connect all components on the breadboard, ensuring proper power and ground connections.
     - Use jump wires to establish connections between components.
 
+Circuit implementation:
+<img src="https://github.com/mihaitufescu/Bomberman-Introduction-to-robotics-project/blob/main/Resources/Images/20231130_222836.jpg" alt="Circuit implementation" width="50%" height="50%" />
 
 Example code:
 
